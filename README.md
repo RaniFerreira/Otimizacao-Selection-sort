@@ -73,8 +73,5 @@ O Selection Sort Simples sempre troca o menor elemento com a posição atual, me
 
 O Selection Sort Otimizado:
 
-Verifica se a troca é realmente necessária.
-
-Evita movimentações inúteis, economizando tempo e processamento.
-
-É especialmente útil em listas parcialmente ordenadas, embora a complexidade no pior caso continue sendo O(n²).
+Verifica se a troca é realmente necessária. Evita movimentações inúteis, economizando tempo e processamento.
+ É especialmente útil em listas parcialmente ordenadas, embora a complexidade no pior caso continue sendo O(n²).
